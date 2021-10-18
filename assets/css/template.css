@@ -37,7 +37,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .main-button a {
 	display: inline-block;
-	background-color: #f48840;
+	background-color: #40f4b5;
 	color: #fff;
 	font-size: 13px;
 	font-weight: 500;
@@ -65,7 +65,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .page-heading .text-content h4 {
-	color: #f48840;
+	color: #40f4b5;
 	font-size: 18px;
 	text-transform: uppercase;
 	font-weight: 900;
@@ -118,7 +118,7 @@ header .navbar {
 .background-header .navbar-nav .nav-link.active,
 .background-header .navbar-nav .nav-link.show,
 .background-header .navbar-nav .show>.nav-link {
-	color: #f48840!important;
+	color: #40f4b5!important;
 }
 .navbar .navbar-brand {
 	float: 	left;
@@ -139,7 +139,7 @@ header .navbar {
 .navbar .navbar-brand h2 em {
 	font-size: 44px;
 	font-style: normal;
-	color: #f48840;
+	color: #40f4b5;
 }
 #navbarResponsive {
 	z-index: 999;
@@ -165,14 +165,14 @@ header .navbar {
 .navbar .navbar-nav .nav-link.active,
 .navbar .navbar-nav .nav-link.show,
 .navbar .navbar-nav .show>.nav-link {
-	color: #f48840;
+	color: #40f4b5;
 }
 .navbar .navbar-toggler-icon {
 	background-image: none;
 }
 .navbar .navbar-toggler {
 	border-color: #fff;
-	background-color: #f48840;
+	background-color: #40f4b5;
 	height: 46px;
 	outline: none;
 	border-radius: 0px;
@@ -210,7 +210,7 @@ header .navbar {
 }
 
 .owl-banner .item .item-content .meta-category span {
-	color: #f48840;
+	color: #40f4b5;
 	font-size: 18px;
 	text-transform: uppercase;
 	font-weight: 900;
@@ -249,7 +249,7 @@ header .navbar {
 }
 
 .owl-banner .item .item-content ul li a:hover {
-	color: #f48840;
+	color: #40f4b5;
 }
 
 .owl-banner .owl-nav {
@@ -299,7 +299,7 @@ header .navbar {
 }
 
 .call-to-action .main-content span {
-	color: #f48840;
+	color: #40f4b5;
 	font-size: 18px;
 	font-weight: 900;
 	letter-spacing: 0.5px;
@@ -348,7 +348,7 @@ header .navbar {
 	text-transform: uppercase;
 	letter-spacing: 0.5px;
 	font-weight: 900;
-	color: #f48840;
+	color: #40f4b5;
 }
 
 .blog-posts .down-content h4 {
@@ -396,7 +396,7 @@ header .navbar {
 }
 
 .blog-posts .down-content ul.post-info li a:hover {
-	color: #f48840;
+	color: #40f4b5;
 }
 
 .blog-posts .down-content p {
@@ -417,7 +417,7 @@ header .navbar {
 
 .blog-posts .down-content ul.post-tags li:first-child i,
 .blog-posts .down-content ul.post-share li:first-child i {
-	color: #f48840;
+	color: #40f4b5;
 	margin-right: 5px;
 }
 
@@ -436,7 +436,7 @@ header .navbar {
 
 .blog-posts .down-content ul.post-tags li a:hover,
 .blog-posts .down-content ul.post-share li a:hover {
-	color: #f48840;
+	color: #40f4b5;
 }
 
 .blog-posts .main-button a {
@@ -470,13 +470,13 @@ ul.page-numbers li a {
 }
 
 ul.page-numbers li.active a {
-	background-color: #f48840;
-	border-color: #f48840;
+	background-color: #40f4b5;
+	border-color: #40f4b5;
 	color: #fff;
 }
 
 ul.page-numbers li a:hover {
-	color: #f48840;
+	color: #40f4b5;
 }
 
 .blog-posts .sidebar-heading h2 {
@@ -581,7 +581,7 @@ ul.page-numbers li a:hover {
 
 .blog-posts .submit-comment button {
 	display: inline-block;
-	background-color: #f48840;
+	background-color: #40f4b5;
 	color: #fff;
 	font-size: 13px;
 	font-weight: 500;
@@ -658,7 +658,7 @@ ul.page-numbers li a:hover {
 }
 
 .sidebar .recent-posts ul li h5:hover {
-	color: #f48840;
+	color: #40f4b5;
 }
 
 .sidebar .recent-posts ul li span {
@@ -684,7 +684,7 @@ ul.page-numbers li a:hover {
 }
 
 .sidebar .categories ul li a:hover {
-	color: #f48840;
+	color: #40f4b5;
 }
 
 .sidebar .tags ul li {
@@ -707,8 +707,8 @@ ul.page-numbers li a:hover {
 }
 
 .sidebar .tags ul li a:hover {
-	background-color: #f48840;
-	border-color: #f48840;
+	background-color: #40f4b5;
+	border-color: #40f4b5;
 	color: #fff;
 }
 
@@ -757,7 +757,7 @@ footer ul.social-icons li a {
 }
 
 footer ul.social-icons li a:hover {
-	color: #f48840;
+	color: #40f4b5;
 }
 
 footer p {
@@ -767,11 +767,11 @@ footer p {
 }
 
 footer p a {
-	color: #f48840;
+	color: #40f4b5;
 }
 
 footer p a:hover {
-	color: #f48840;
+	color: #40f4b5;
 }
 
 
@@ -830,7 +830,7 @@ footer p a:hover {
 
 .contact-us .contact-form button {
 	display: inline-block;
-	background-color: #f48840;
+	background-color: #40f4b5;
 	color: #fff;
 	font-size: 13px;
 	font-weight: 500;
@@ -912,7 +912,7 @@ footer p a:hover {
 }
 
 .about-us ul li a:hover {
-	background-color: #f48840;
+	background-color: #40f4b5;
 }
 
 
@@ -981,7 +981,7 @@ footer p a:hover {
 	.navbar .navbar-nav .nav-link.active,
 	.navbar .navbar-nav .nav-link.show,
 	.navbar .navbar-nav .show>.nav-link {
-		color: #f48840!important;
+		color: #40f4b5!important;
 		border-bottom: none!important;
 		padding-bottom: 15px;
 	}
